@@ -2,7 +2,7 @@
 <h2> Hey there, I am Obianuju Nzekwue 👋🏾 </h2>
 
 <p>
-I am a UI/UX Designer currently learning machine language with Python, and other Technologies.
+I am a Product Designer currently learning machine language with Python, and other Technologies.
 </p>
 
 
@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/duhraa?logo=github&style=for-the-ba
 ### Skills
 
 <p align="left">
-<a href="https://figma.com" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Figma" /></a>
+• UI/UX
 </p>
 
 <b></b>
