@@ -17,8 +17,8 @@ I am open to learning more, being mentored and to collaborating in any machine l
 <hr/>
 
 
-<a href="https://www.twitter.com/u_ujay" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/u_ujay?logo=twitter&style=for-the-badge&color=f97316&labelColor=ffffff"
+<a href="https://www.twitter.com/j_ujay" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/j_ujay?logo=twitter&style=for-the-badge&color=f97316&labelColor=ffffff"
 /></a><a href="https://www.github.com/duhraa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/duhraa?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff" /></a>
 
@@ -47,7 +47,7 @@ src="https://img.shields.io/github/followers/duhraa?logo=github&style=for-the-ba
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/duhraa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/duh_raa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/obianuju-nzekwue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/u_ujay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/duhraa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/duh_raa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/obianuju-nzekwue" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/j_ujay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <!---
 duhraa/duhraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
